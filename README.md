@@ -13,3 +13,6 @@ Express, mongoose, react , node.js , restapi , crud
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
     "web-vitals": "^2.1.4"
+
+
+A new take on this userinterface will be uploaded with more hooks and functional components.
